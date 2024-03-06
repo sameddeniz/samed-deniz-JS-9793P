@@ -1,0 +1,31 @@
+
+.attention-text{
+    border: solid black 5px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-color: azure;
+}
+
+.attention-button{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(218, 184, 184);
+    border: solid black;
+    border-radius: 25px;
+}
+
+.reset-button{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(160, 230, 201);
+    border: solid black;
+    border-radius: 25px;
+
+}
+
+#sayac{
+    color: red;
+    font-weight: 600;
+    font-size: 1.5em;
+}
